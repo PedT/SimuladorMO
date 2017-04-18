@@ -1,0 +1,5 @@
+{
+"MOBJS":4,
+"Sensor":1,
+"ChanceOfFailure":10
+}
